@@ -1,0 +1,29 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactFields" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="autoResetColorScheme" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCompactFields" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="customListItemsSizeEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-7226eb8b:17fe2c02f95:-8000" />
+    <option name="version" value="6.16.0" />
+    <option name="codeAdditionsEnabled" value="false" />
+    <option name="stripedToolWindowsEnabled" value="true" />
+  </component>
+</application>
