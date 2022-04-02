@@ -4,9 +4,19 @@
     <property name="created">2022-04-01T15:52:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-04-01T16:07:22</property>
+    <property name="modified">2022-04-02T17:34:57</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -15,7 +25,6 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8aff80" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
@@ -914,19 +923,10 @@
     <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG" baseAttributes="TEXT" />
     <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="50fa78" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
-    </option>
-    <option name="HTML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="6272a4" />
-      </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
@@ -1111,11 +1111,6 @@
         <option name="FOREGROUND" value="f780bf" />
       </value>
     </option>
-    <option name="JS.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="6272a4" />
-      </value>
-    </option>
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="80ffea" />
@@ -1128,31 +1123,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="80ffea" />
-      </value>
-    </option>
-    <option name="JS.DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="6272a4" />
-      </value>
-    </option>
-    <option name="JS.DOC_TAG">
-      <value>
-        <option name="FOREGROUND" value="80ffea" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.EXPORTED.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="80ffea" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="80ffea" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1170,16 +1144,6 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="JS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="80ffea" />
-      </value>
-    </option>
-    <option name="JS.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="6272a4" />
-      </value>
-    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -1188,6 +1152,7 @@
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="80ffea" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
@@ -1195,35 +1160,15 @@
         <option name="FOREGROUND" value="9580ff" />
       </value>
     </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f89580" />
-      </value>
-    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="feff80" />
-      </value>
-    </option>
-    <option name="JS.STATIC_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="50fa78" />
-      </value>
-    </option>
-    <option name="JS.STATIC_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="9580ff" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.TYPE_ALIAS">
-      <value>
-        <option name="FOREGROUND" value="80ffea" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -1389,6 +1334,7 @@
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value>
         <option name="FOREGROUND" value="6272a4" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -3241,6 +3187,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79cbdc" />
+        <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
