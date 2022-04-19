@@ -22,7 +22,8 @@
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-7226eb8b:17fe2c02f95:-8000" />
-    <option name="version" value="6.16.0" />
+    <option name="version" value="7.3.2" />
+    <option name="tabHighlightPosition" value="Left" />
     <option name="codeAdditionsEnabled" value="false" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
